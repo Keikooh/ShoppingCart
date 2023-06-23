@@ -1,5 +1,5 @@
 # ShoppingCart
 intuitive shopping cart.
 
-###Description
+### Description
 This project was developed using React and Redux Toolkit. 🚀
