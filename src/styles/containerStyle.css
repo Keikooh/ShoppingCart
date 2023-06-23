@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    width: 900px;
+}
+
+.order{
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 10px;
+}
+
+span{
+    display: block;
+    margin: 20px;
+}
